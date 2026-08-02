@@ -8,7 +8,7 @@
    professional, empathetic, and on-brand responses.
 
    ## Why this exists
-   [1-2 sentences on the problem this solves]
+   Customer service teams often write similar emails repeatedly, and inconsistent tone or slow response times can damage client relationships. This library provides tested, reusable prompt templates that consistently produce professional, empathetic, and on-brand emails across common support scenarios.
 
    ## Prompts included
    - Handling an angry/frustrated customer
